@@ -1,0 +1,10 @@
+input_pdf_path: "input.pdf"
+output_pdf_path: "output.pdf"
+target_lang: "en"
+labels:
+  "invoice no": "Invoice Number"
+  "invoice no.": "Invoice Number"
+  "invoice number": "Invoice Number"
+  "purchase order no": "PO Number"
+  "po no": "PO Number"
+model_name_pattern: "Helsinki-NLP/opus-mt-{source}-{target}"

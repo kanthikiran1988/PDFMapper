@@ -1,0 +1,9 @@
+pymupdf
+transformers
+torch
+fpdf2
+PyYAML
+langdetect
+sentencepiece
+sacremoses
+fitz
